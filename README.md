@@ -4,6 +4,7 @@
 **Course:** Natural Language Processing & Generative AI — University of San Diego  
 **Deliverable:** Final Team Project (Solo Submission)
 **Date:** September 2, 2025 to October 20, 2025
+**Github repo link:** https://github.com/BiswalSoura/FinAgentX-Multi-Agent-AI-System.git
 ---
 
 ## Project Overview
