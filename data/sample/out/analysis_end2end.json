@@ -1,0 +1,103 @@
+[
+  {
+    "title": "eMudhra: Should you exit stock after decent listing or hold for long term?",
+    "type": "news",
+    "confidence": 0.7,
+    "extracted": {
+      "mentions_beat": false,
+      "mentions_miss": false
+    },
+    "summary_short": "eMudhra: Should you exit stock after decent listing or hold for long term? — Key figures not found. Sentiment: neutral.",
+    "summary_long": "eMudhra: Should you exit stock after decent listing or hold for long term? — Key figures not found. Sentiment: neutral. Full analysis: Getty ImagesAgainst the issue price of Rs 256, shares of eMudhra listed at a premium of 6 per cent at Rs 271 on BSE and a premium of 5 per cent at Rs 270 on the National Stock Exchange (NSE).RelatedStocks in the news: eMudhra, Bharat Dynamics, HFCL, GOCL Corp and BataD-Street debut: eMudhra lists at 6% premium on BSEeMudhra to have a soft debut on Dalal Street? Here's what grey market is signalingContrary to market expectations, eMudhra debuted on a positive note in Wednesday's trade. That said, the gains were capped in the counter.\n\nAgainst the issue price of Rs 256, shares of eMudhra listed at a premium of 6 per cent at Rs 271 on BSE and a premium of 5 per cent at Rs 270 on the National Stock Exchange (NSE).\n\nPost the listing, eMudhra extended its total gains to per cent over the issue p...",
+    "sentiment": "neutral",
+    "specialist": {
+      "note": "general news",
+      "conclusion": "info"
+    },
+    "evaluation": {
+      "score": 1.0,
+      "feedback": "OK"
+    }
+  },
+  {
+    "title": "Nasdaq posts biggest daily percentage drop in a month on fears of aggressive Fed",
+    "type": "macro",
+    "confidence": 0.85,
+    "extracted": {
+      "mentions_beat": false,
+      "mentions_miss": false
+    },
+    "summary_short": "Nasdaq posts biggest daily percentage drop in a month on fears of aggressive Fed — Key figures not found. Sentiment: neutral.",
+    "summary_long": "Nasdaq posts biggest daily percentage drop in a month on fears of aggressive Fed — Key figures not found. Sentiment: neutral. Full analysis: AgenciesWall Street's main indexes fell on Tuesday, dragged by weakness in tech and other growth stocks, after comments from Federal Reserve Governor Lael Brainard spooked investors about potential aggressive actions by the central bank to control inflation.\n\nThe tech-heavy Nasdaq posted its biggest daily percentage drop in about a month, with declines in heavyweight stocks such as Apple Inc and Amazon.com Inc .\n\nAt a conference on Tuesday, Brainard said she expects methodical interest rate increases and rapid reductions to the Fed's balance sheet to bring U.S. monetary policy to a \"more neutral position\" later this year, with further tightening to follow as needed.\n\nBrainard's comments \"drove home the point that the Fed is poised to get more aggressive,â€ said Kristina Hooper, chief glob...",
+    "sentiment": "neutral",
+    "specialist": {
+      "note": "Macro themes detected: inflation",
+      "conclusion": "macro_note"
+    },
+    "evaluation": {
+      "score": 1.0,
+      "feedback": "OK"
+    }
+  },
+  {
+    "title": "Wall Street ends sharply higher, led by Tesla and Nvidia",
+    "type": "earnings",
+    "confidence": 0.9,
+    "extracted": {
+      "revenue_raw": "revenue, making it the latest U.S. company to warn of a hit from a stronger U.S. dollar.\n\nHewlett Packard Enterprise Co slid 5.2",
+      "mentions_beat": true,
+      "mentions_miss": false
+    },
+    "summary_short": "Wall Street ends sharply higher, led by Tesla and Nvidia — revenue, making it the latest U.S. company to warn of a hit from a stronger U.S. dollar.\n\nHewlett Packard Enterprise Co slid 5.2. Sentiment: bullish.",
+    "summary_long": "Wall Street ends sharply higher, led by Tesla and Nvidia — revenue, making it the latest U.S. company to warn of a hit from a stronger U.S. dollar.\n\nHewlett Packard Enterprise Co slid 5.2. Sentiment: bullish. Full analysis: AgenciesWall Street ended sharply higher on Thursday, led by Tesla, Nvidia and other megacap growth stocks in a choppy session ahead of a key jobs report due on Friday. Tesla, Nvidia and Meta Platforms each rose more than 4%, fueling gains in the S&P 500 and Nasdaq. Amazon rallied 3.1% and Apple added 1.7%.\n\nOf the 11 S&P 500 sector indexes, 10 rose, led by Consumer Discretionary, up 3.03%, followed by a 2.69% gain in Materials.\n\nU.S. stocks recovered from a drop earlier in the day after Federal Reserve Vice Chair Lael Brainard said she backs at least a couple more half percentage point interest rate hikes, and sees little case for pausing rate hikes in September if price pressures fail to cool.\n\nThe U.S. stock market has staged a modest recovery in recent sessions, with investors debating...",
+    "sentiment": "bullish",
+    "specialist": {
+      "note": "Text indicates company beat estimates. ",
+      "conclusion": "bullish"
+    },
+    "evaluation": {
+      "score": 1.0,
+      "feedback": "OK"
+    }
+  },
+  {
+    "title": "Asian stocks buoyed by Wall Street gains as easing oil cools inflation fears",
+    "type": "macro",
+    "confidence": 0.85,
+    "extracted": {
+      "mentions_beat": false,
+      "mentions_miss": false
+    },
+    "summary_short": "Asian stocks buoyed by Wall Street gains as easing oil cools inflation fears — Key figures not found. Sentiment: neutral.",
+    "summary_long": "Asian stocks buoyed by Wall Street gains as easing oil cools inflation fears — Key figures not found. Sentiment: neutral. Full analysis: APTOKYO - Stocks gained in Asia on Monday amid improved risk sentiment after Wall Street rebounded strongly at the end of last week as oil prices eased, tempering fears of prolonged inflation and the accompanying aggressive Federal Reserve tightening.\n\n Treasury yields remained subdued and the dollar hovered near the lowest in more than a week as investors continued to assess the outlook for U.S. rate hikes, and the potential for a recession.\n\n Japan's Nikkei rallied 1.04%, while Australia's benchmark jumped 1.69%. \n\n Chinese blue chips rose 0.54% and Hong Kong's Hang Seng advanced 1.46%.\n\n South Korea's Kospi gained 1.65%.\n\n MSCI's broadest index of Asia-Pacific shares rose 1.31%.\n\n However, U.S. stock futures point to a 0.25% decline when those markets reopen. On Friday, the S&P 500 surg...",
+    "sentiment": "neutral",
+    "specialist": {
+      "note": "Macro themes detected: inflation",
+      "conclusion": "macro_note"
+    },
+    "evaluation": {
+      "score": 1.0,
+      "feedback": "OK"
+    }
+  },
+  {
+    "title": "Wall Street ends higher after choppy session ahead of Fed",
+    "type": "earnings",
+    "confidence": 0.9,
+    "extracted": {
+      "mentions_beat": false,
+      "mentions_miss": false
+    },
+    "summary_short": "Wall Street ends higher after choppy session ahead of Fed — Key figures not found. Sentiment: neutral.",
+    "summary_long": "Wall Street ends higher after choppy session ahead of Fed — Key figures not found. Sentiment: neutral. Full analysis: Wall Street stocks ended higher on Tuesday after a choppy session in which each of the major indexes fluctuated between gains and losses as a key meeting of the Federal Reserve got under way.\n\nInvestors picked up shares of financials and technology companies ahead of Wednesday's expected announcement by the Fed.\n\nNine of the 11 major S&P 500 sectors rose, with energy and financials up 2.9% and 1.3%, respectively. The S&P 500 banks index gained 2%, with Citigroup Inc climbing 2.9%.\n\nThe U.S. central bank kicked off its two-day policy meeting on Tuesday. Traders see a 99.9% chance of a 50 basis-point hike on Wednesday, according to CME's FedWatch Tool, which would mark the largest rate hike by the Fed since May 2000.\n\nThe spotlight stays on Fed Chair Jerome Powell's news conference on Wednes...",
+    "sentiment": "neutral",
+    "specialist": {
+      "note": "",
+      "conclusion": "neutral"
+    },
+    "evaluation": {
+      "score": 1.0,
+      "feedback": "OK"
+    }
+  }
+]
